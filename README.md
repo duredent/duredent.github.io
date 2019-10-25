@@ -1,3 +1,13 @@
+# Duredent's First Web Page Ever!
+
+  So happy to have my very own web page, now if only I could avoid embarrassing myself with childish comments...
+
+## Objective #1
+
+  Learn yet another syntax, yay!! Does my first sub-title look ok, or is it like #not#?
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/duredent/duredent.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
