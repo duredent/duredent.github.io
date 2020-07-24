@@ -7,10 +7,16 @@
   Learn yet _another_ syntax, **yay**!!! 
   
 ```javascript
-var understanding = 0;
+var understanding = 1;
 
 
 ```
+
+## Objective #2
+
+  Learn how to use GitHub
+  
+  
   
 ## GitHub Tutorial Shortcuts
 
