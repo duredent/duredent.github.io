@@ -1,0 +1,78 @@
+/* J'essaye d'aller au plus simple en codant le minimum */
+* {
+  box-sizing: border-box;
+}
+html {
+  background-color: black;
+  width: 21cm;
+  height: 29.5cm;
+}
+
+body {
+  margin: 0 auto;
+  display: flex;
+  flex: auto;
+  background-color: rgb(150, 150, 255);
+  height: 29.7cm;
+}
+
+div {
+  background-color: initial;
+}
+
+.left,
+.right {
+  border: 4px solid rgba(255, 255, 255, 0.33);
+  background-color: rgba(255, 255, 255, 0.33);
+  border-radius: 5px;
+  text-align: center;
+  padding: 4px;
+  margin: 0.4em auto;
+}
+
+.left {
+  width: 40%;
+  overflow-wrap: break-word;
+}
+
+.right {
+  width: 60%;
+}
+
+h2,
+h3,
+h4 {
+  margin: 3px auto;
+  width: 90%;
+  text-align: center;
+  overflow-wrap: break-word;
+  background-color: rgba(255, 255, 255, 0.33);
+  border-radius: 5px;
+}
+
+p {
+  margin-block-start: 0.1em;
+  margin-block-end: 0.1em;
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.33);
+  border-radius: 5px;
+}
+.experiences p {
+  margin-left: 13%;
+  width: 80%;
+  text-align: justify;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.33);
+}
+
+.sub {
+  padding: 4px;
+  margin: 0.4em auto;
+  width: 90%;
+  background-color: rgba(255, 255, 255, 0.33);
+  border: 4px solid rgba(255, 255, 255, 0.33);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px black;
+}
